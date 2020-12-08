@@ -2,27 +2,27 @@
 
 namespace AlgorithmsLab4
 {
-    public static class Sorter
+    public static class Sort
     {
         public static void SelectionSort(string[] text)
         {
             for (int i = 0; i < text.Length; i++)
             {
-                string min = text[i];
-                int index = i;
+                string minWord = text[i];
+                int minWordIndex = i;
                 for (int j = i; j < text.Length; j++)
                 {
                     string currentWord = text[j];
-                    int compareResult = min.CompareTo(currentWord);
+                    int compareResult = minWord.CompareTo(currentWord);
                     if (compareResult > 0)
                     {
-                        min = text[j];
-                        index = j;
+                        minWord = text[j];
+                        minWordIndex = j;
                     }
                 }
                 string t = text[i];
-                text[i] = text[index];
-                text[index] = t;
+                text[i] = text[minWordIndex];
+                text[minWordIndex] = t;
             }
         }
 

@@ -71,7 +71,7 @@ namespace AlgorithmsLab4
 
         private static void TextStringArray()
         {
-            string[] text = File.ReadAllText(@"..\..\Texts\Text 1.txt").Split(new char[] { ' ', ',', '.', '«', '»' }, StringSplitOptions.RemoveEmptyEntries);
+            string[] text = File.ReadAllText(@"..\..\Texts\Text 2.txt").Split(new char[] { ' ', ',', '.', '«', '»', '”', '"', '\n', '\t', '—', '-', '(', ')' }, StringSplitOptions.RemoveEmptyEntries);
             foreach (var item in text)
                 Console.Write(item + " ");
             Console.WriteLine("\n\n");
