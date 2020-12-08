@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Diagnostics;
 using System.IO;
 
 namespace AlgorithmsLab4
@@ -11,78 +8,50 @@ namespace AlgorithmsLab4
     {
         static void Main(string[] args)
         {
-            #region
-            ////string[] text = File.ReadAllText(@"..\..\Texts\Text 1.txt").Split(new char[] { ' ', ',', '.', '«', '»' }, StringSplitOptions.RemoveEmptyEntries);
-            ////string[] text = File.ReadAllText(@"..\..\Texts\Text 2.txt").Split(new char[] { ' ', ',', '.', '«', '»' }, StringSplitOptions.RemoveEmptyEntries);
-
-            ////int[] arr = new int[text.Length];
-            ////for (int i = 0; i < text.Length; i++)
-            ////{
-            ////    arr[i] = int.Parse(text[i]);
-            ////}
-
-            ////foreach (var item in arr)
-            //foreach (var item in text)
-            //{
-            //    Console.Write(item + " ");
-            //}
-
-            //Console.WriteLine("\n\n\n\n");
-
-            ////Sorter.SelectionSort(text);
-
-            //Sorter.HoareSort(text, 0, text.Length - 1);
-            ////Sorter.SelectionSort(arr);
-            ////foreach (var item in arr)
-            //foreach (var item in text)
-            //{
-            //    Console.Write(item + " ");
-            //}
-            //Console.WriteLine("\n\n\n\n");
-            //Console.ReadLine();
-            #endregion
-
-            TestNumberArray();
-            Console.WriteLine("\n\n\n");
-            TextStringArray();
-            Console.ReadLine();
+            string[] fileListFromDirectory = Directory.GetFiles(@"..\..\Texts");
+            foreach (var item in fileListFromDirectory)
+            {
+                TestSelectionSort(item);
+                Console.WriteLine("\n");
+                TestHoareSort(item);
+                Console.WriteLine("\n");
+            }
         }
 
-        private static void TestNumberArray()
+        private static Stopwatch sw = new Stopwatch();
+        private static void TestHoareSort(string filePath)
         {
-            string[] text = File.ReadAllText(@"..\..\Texts\Numbers.txt").Split(new char[] { ' ', ',', '.', '«', '»' }, StringSplitOptions.RemoveEmptyEntries);
-
-            int[] arr = new int[text.Length];
-            for (int i = 0; i < text.Length; i++)
-                arr[i] = int.Parse(text[i]);
-            
-            foreach (var item in arr) 
-                Console.Write(item + " ");            
-            Console.WriteLine("\n\n");
-
-            //Sorter.SelectionSort(arr);
-
-            Sorter.HoareSort(arr, 0, text.Length - 1);
-
-            foreach (var item in arr)
-                Console.Write(item + " ");
-            Console.WriteLine("\n\n");
+            string[] text = ReadFile(filePath);
+            sw.Start();
+            Sort.HoareSort(text, 0, text.Length - 1);
+            sw.Stop();
+            PrintSortResult(text);
+            sw.Reset();
         }
 
-        private static void TextStringArray()
+        private static void TestSelectionSort(string filePath)
         {
-            string[] text = File.ReadAllText(@"..\..\Texts\Text 2.txt").Split(new char[] { ' ', ',', '.', '«', '»', '”', '"', '\n', '\t', '—', '-', '(', ')' }, StringSplitOptions.RemoveEmptyEntries);
+            string[] text = ReadFile(filePath);
+            sw.Start();
+            Sort.SelectionSort(text);
+            sw.Stop();
+            PrintSortResult(text);
+            sw.Reset();
+        }
+
+        private static string[] ReadFile(string filePath)
+        {
+            char[] charsForSplitting = new char[] { ' ', ',', '.', '«', '»', '”', '"', '\n', '\t', '—', '-', '(', ')' };
+            string[] text = File.ReadAllText(filePath).Split(charsForSplitting, StringSplitOptions.RemoveEmptyEntries);
+            return text;
+        }
+        private static void PrintSortResult(string[] text)
+        {
             foreach (var item in text)
                 Console.Write(item + " ");
-            Console.WriteLine("\n\n");
-
-            //Sorter.SelectionSort(text);
-
-            Sorter.HoareSort(text, 0, text.Length - 1);
-
-            foreach (var item in text)
-                Console.Write(item + " ");
-            Console.WriteLine("\n\n");
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("\n" + sw.ElapsedTicks + "\n");
+            Console.ForegroundColor = ConsoleColor.Gray;
         }
     }
 }
