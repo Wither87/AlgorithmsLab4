@@ -62,7 +62,7 @@ namespace AlgorithmsLab4
 
         private static string[] ReadFile(string filePath)
         {
-            char[] charsForSplitting = new char[] { ' ', ',', '.', '«', '»', '”', '"', '\r', '\n', '\t', '—', '-', '(', ')' };
+            char[] charsForSplitting = new char[] { ' ', ',', '.', '«', '»', '”', '"', '\r', '\n', '\t', '—', '-', '(', ')', '!', '?', ':' };
             string[] text = File.ReadAllText(filePath).Split(charsForSplitting, StringSplitOptions.RemoveEmptyEntries);
             return text;
         }

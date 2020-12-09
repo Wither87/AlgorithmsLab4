@@ -1,0 +1,326 @@
+Until the evening of 4 October 1957, the US President, Dwight D. Eisenhower, was confident that he led the world's greatest nation. In the USA, the early 1950s are known as the Eisenhower years. Many Americans remember these years as a time of wealth and happiness. The USA was the richest nation in the world and it was growing richer all the time. Almost every American could hope to own a house and a car. As a general, Eisenhower had led US armed forces to victory in the Second World War and, until that evening in 1957, it seemed that no other nation could threaten the USA.
+
+But then some news arrived that shook America's belief in itself; 'The Russians are in space! The Russians are in space!' Until this moment Americans believed that their nation was the most powerful on Earth. But now the Soviet Union had gone beyond the Earth.
+
+Millions of radios all over the world could hear a new broadcast: 'Beep... beep... beep...' This electronic noise was the sound of the satellite Sputnik 1, the first object placed in space by humans. It was a Russian achievement and it shocked Americans.
+
+This was the tune of the Cold War. The Soviet Union was America's great enemy, and soldiers from both sides stood ready to fight in almost every part of the world. The risk of real fighting - a 'hot' war - was always present. But the Cold War was not just about armies and weapons. It was also a war of technology and ideas. Each side presented its successes in science and technology as proof that its political system was better.
+
+So when the Soviet Union sent its little silver satellite up into the cold night sky of the Kazakh Republic, it was more then just an interesting scientific test. It was an act that showed the world that the Soviet Union was winning the war of ideas Sputnik measured just fifty-eight centimeters across. But every ninety six minutes it crossed the skies of the USA like a new moon a Russian moon.
+
+Americans were worried. If the Russians could put a satellite into space, what else could they do? Soon they might send platforms into space as well, and drop bombs from them, right into the heart of the nation. Newspapers were soon filled with wild stories about the new dangers in space. Many Americans believed them.
+
+'What are we going to do about this?' President Eisenhower asked his Secretary of Defense, Neil McElroy.
+
+'There's no real reason to worry,' McElroy replied. 'Sputnik is not a danger for us. Our scientists are better than their scientists.'
+
+'I know that,' said the President. 'That's not what I'm worried about. My problem is that I don't like surprises. I don't want to be surprised like this again. The nation doesn't want to be surprised like this again. In future we will make sure that we are ahead of the Russians in all important technologies.'
+
+'What are you suggesting, Mr President?'
+
+'We need a new department of government to direct our high technology work. I want to be able to say to the American people, "Don't worry. The best scientists in the world are working for the US government and they're keeping us ahead of the Russians." And I want to stop the armed forces competing with each other, the way they do now. It's a waste of money and talent. I want a single organization to control all our high-technology efforts.'
+
+'Yes, sir, Mr President,' said McElroy.
+
+The Secretary of Defense did not know it, but as he turned and walked out of the famous Oval Office, he was taking the first steps on a road that led to the most important invention of the late twentieth century: the Internet.
+On 7 January 1958, President Eisenhower announced a new organization called ARPA that would control all of the government's high-technology work.
+
+Soon ARPA was spending millions of dollars on research into new science and technology. In lonely laboratories deep in the deserts and mountains of the USA, brilliant men and women explored extraordinary new ideas. Scientists built bombs that could spread terrible diseases. Engineers made plans for wars in space. Psychologists tried to train people to communicate through the power of thought alone.
+
+ARPA's earliest projects were aimed at winning the 'space race' that Sputnik had started. But these projects were soon placed under the control of a new organization, NASA. NASA captured America's imagination all through the 1960s, especially after President Kennedy announced his plan to land a man on the moon.
+
+While NASA filled the news, ARPA was working quietly in an ARPA that would eventually prove far more important than space travel: computing.
+
+In 1966, the man in charge of ARPA's computer projects was Bob Taylor. He began his career as a scientist working on brain research. But he was also interested in computing, even before computer science existed as a separate ARPA of study. Computers were still a very new technology at this time. They were less common than Rolls-Royce cars - and more expensive. In the 1960s, a computer with the power of the machines that sit on desks today cost millions of dollars and was the size of an apartment. Most of these machines were owned by universities, the government or large companies. They were mainly used for mathematics.
+
+
+
+But even at this time. Bob Taylor realized that computers were not just machines that could calculate. They were machines that could communicate as well.
+
+ARPA was paying for computer projects at universities all over the USA. But Bob Taylor was not happy with the results. He went to see his boss, Charlie Herzfeld:
+
+'Charlie, we've got a problem,' he said.
+
+'What's that?' Herzfeld asked.
+
+'We're throwing money away,' said Taylor. 'We're paying different people all over the USA to do exactly the same work.'
+
+'What's wrong with them?' shouted Herzfeld, who had a strong Austrian accent and frightened many of the people who worked for him. 'Haven't they heard of the telephone? Don't they go to conferences? We pay for them to go to conferences. Why don't they just tell each other what they're doing?'
+
+'No, Charlie, that's not the problem,' explained Taylor. 'Of course our people talk to each other. The trouble is that their computers don't.'
+
+'Their computers don't talk? What do you mean?' asked Herzfeld.
+
+
+
+'Well, look at my office. I've got connections there to all of our biggest computers. But if I want to communicate with Unpeople at Santa Monica, I have to sit down at one machine. And if I want to talk to the computer at Berkeley, I have to get up from that machine and go over and sit at another one, using a completely different computer language. It's the same for all the other computers.'
+
+
+
+'So what's the answer, then?' asked Herzfeld.
+
+'I want to build a network of computers. I'd like to connect four of our biggest computers together. Then the scientists can share their research and we won't be paying for the same jobs again and again.'
+
+'Isn't that going to be difficult?' he asked.
+
+'Oh, no,' said Taylor, sounding more confident than he felt. 'We already know how to do it.'
+
+Herzfeld thought for a moment.
+
+'Great idea, Bob,' he said. 'Start working on it. I'll give you a million dollars right now. Go.'
+
+Taylor left Herzfeld's office and went back to his own room. 'A million dollars!' he said to himself. 'And that only took twenty minutes! Why didn't I ask for more?'
+
+When Bob Taylor had the money for a network, he began to hire people to build it. His first choice for a manager of the project was Larry Roberts.
+
+Roberts was perfect for the job because he was an expert in both computers and communications. He had just succeeded in linking two computers on opposite coasts of the USA. Bob Taylor had paid for this work and now he wanted Larry Roberts to go to work at ARPA. The problem was that Roberts did not want to come. He was happy where he was - Lincoln Laboratory at the Massachusetts Institute of Technology (MIT).
+
+Taylor went to see Charlie Herzfeld again: 'Isn't it true that ARPA is giving Lincoln at least 51 percent of its money?'
+
+'Yes, it is,' said Herzfeld.
+
+'Would you speak to Larry's boss and make sure he remembers who pays his wages?'
+
+So Charlie Herzfeld called Roberts's boss at Lincoln. 'We control more than half of your money,' said Herzfeld. 'So it would be good for Larry Roberts and good for Lincoln Laboratory if Roberts came to ARPA. Why don't you send him down here as fast as you can?'
+
+The boss of Lincoln Laboratory quickly called Larry Roberts into his office.
+
+'It would probably be a good thing for all of us if you would take this job. They won't accept "no" for an answer.'
+
+Two weeks later Larry Roberts was at ARPA.
+
+Bob Taylor gave Larry Roberts the job of finding computers for the new network. ARPA wanted to use some of the computers that it paid for at universities around the USA. But the people who controlled these machines were not enthusiastic.
+
+'We've got our own work to do,' they said. 'Computer time is too valuable to waste on crazy ideas.'
+
+Others were more worried about security:
+
+'The information on these computers is secret,' they told Larry Roberts. 'If my computer starts talking to your computer tomorrow, it'll be talking to the whole of the Soviet Union by the end of the week!'
+
+None of the scientists seemed to trust anyone who was not at their own university. 'I don't want any fools from University X to touch my million-dollar computer,' they said. But all of them seemed quite happy to think that they might get their hands on other people's computers.
+
+
+
+Larry Roberts went for help to Bob Taylor. Taylor simply used the same methods of persuasion that he had used to get Larry Roberts to ARPA. He phoned each of the universities and said, 'Who pays for your computer?'
+
+'Then you're going to join this network,' said Bob Taylor.
+
+So ARPA got the computers for its network, which Taylor had decided to call the ARPAnet. But it was 1966 and no one in the world really knew how to build a network.
+
+Larry Roberts began to make plans. He had the money and he had permission to join together four big computers. But the really important questions about the design of the network had no answers yet.
+
+Bob Taylor held a conference for ARPA's computer researchers at Ann Arbor, Michigan, in early 1967. This was Larry Roberts's chance to describe his plans and hear the opinions of the best computer scientists in the USA. At first they were not enthusiastic.
+
+Roberts said that he planned to join the computers together directly, with telephone lines. This meant that the 'host' computers would do two jobs: the work they already did, and the extra work of controlling the new network. Most of the audience hated this idea.
+
+'Our computers have too much work already. They can't do another job,' they said. 'Anyway, this network won't work. Every computer in the system will need to understand how to talk to every other computer. There are just too many different types of computer and they all use different languages.'
+
+This was a very good point, and Larry Roberts did not have an answer to it. Even if you could link two computers together on a phone line, it would be very hard for them to understand each other. It would be like French and Indian people trying to communicate in Swahili.
+
+Just before the meeting ended, someone handed a note to Larry Roberts. 'You've got the network inside tint,' it said.
+
+The note was written by Wes Clark. He was one of the least enthusiastic members of Larry Roberts's audience. He was bored by the meeting and he had already told Roberts that he did not want to be part of the network. He was working on computers for individual users and he did not want to share them. Maybe this was why he saw a way to build a network that did not force the host computers to do more work.
+
+After the conference was over, Larry Roberts found Wes Clark and asked him, 'What did you mean when you said "You've got the network inside out"?'
+
+'I've got a plane to catch,' said Clark. 'Can we talk in the taxi?'
+
+So Wes Clark and Larry Roberts continued their discussion on the way to the airport. Clark described his idea:
+
+'Forget about sending a message from one computer to another directly. It'll never work. The host computers have got enough to do, already. Right?'
+
+'Well, yes,' Roberts agreed. 'But we need them to do this networking for us. It will help everyone in the end.'
+
+'Yes, yes, I know all that,' said Clark. 'But you don't need to make them do the extra work of translating between all the different computer languages as well.'
+
+'But how can we avoid it?' Roberts asked.
+
+'Why don't you design a system that uses other computers as translators? Then messages will always go through one of these translators before they go on to their destination.'
+
+'How would that work?'
+
+'You can leave the hosts as they are if you put a smaller computer between each of them and the phone lines. The small computers will all speak the same language. But each small computer only needs to learn just one new language, to speak to its host computer. And the little computers will run the network. They'll do all the work of checking the messages and sending them on, not the hosts. Leave the hosts as they are, build an inner network of small computers, and everything will be fine. It's obvious.'
+
+'That's brilliant,' said Larry Roberts. He climbed out of the taxi with the seed of a new plan for the network growing in his mind.
+
+Wes Clark's idea solved several problems. Obviously it meant less work for the host computers - and for the people who controlled them. It also meant that each host computer would only have to learn one new language, to speak to the smaller computers. And it gave ARPA better control of the whole network.
+
+When Larry Roberts got back to Washington, he wrote a new plan for the ARPAnet, including Wes Clark's ideas. He called the new, smaller computers 'IMPs'. These IMPs would be the interface between the different host computers. In other words, they would allow two systems to meet and talk to each other.
+
+
+
+The design of the ARPAnet was becoming clearer. But Larry Roberts still didn't know exactly how the IMPs should speak to each other.
+
+
+
+Roberts explained his latest ideas at another conference. This meeting was held at Catlinburg, Tennessee, at the end of 1967. Roberts talked about the ARPAnet, the host computers, and the inner network of IMPs that would help the hosts to communicate. But he did not say much about how this communication would work. That was still not clear.
+
+At the same meeting there was another talk by Roger Scantlebury, from the National Physical Laboratory in England. He spoke about how to build a 'packet-switched' network. To Larry Roberts, packet switching sounded perfect tor the ARPAnet.
+
+Packet switching is a very efficient way to send data electronically. Each message is broken down into pieces or 'packets'. The packets are then sent out into the communications network. There is no need for the packets to travel together or in any particular order. Each packet is free to find the best route to its destination. When all the packets have arrived, they are put back together again to form the original message.
+
+There is nearly always more than one route to any destination through a network. If there are ten routes from A to B, it will he quicker to break a message into ten parts and send them all at the same time than to send the whole message along a single path.
+
+Packet switching also takes advantage of the fact that the data used by nearly all computers is 'digital'. This means that the original information - sounds or pictures, for example - is translated into a system of numbers. Digital information is very easy to copy. It can easily be broken down into packets and put back together again without losing any data.
+
+Vint Cerf is an engineer who has written some of the most important software for today's Internet. He said that digital packets are just like postcards:
+
+
+
+'The best way to describe packet-switching technology is to remind you that packets are just like postcards. They've got "to" and "from" addresses on them and they've got a limited amount of content. And, like a postcard, you put them in the post box. If you put two in, you do not know what order they're going to come out in. They might not even come out on the same day. They do not necessarily follow the same paths to get to the destination. The only difference is that an electronic packet goes about a hundred million times faster than a postcard.'
+
+
+
+Now Larry Roberts had plans for the hardware and the software of the ARPAnet. The next question was, who could build it?
+
+This was exactly what Larry Roberts asked Wes Clark when Clark gave him the idea for a network of IMPs.
+
+'There's only one person in America who can build your network,' replied Wes Clark. 'Frank Heart.'
+
+Larry Roberts knew Frank Heart. They had worked together at Lincoln Laboratory. Heart was an expert in 'real-time systems' - systems that work so quickly that human beings do not notice any delay at all. The ARPAnet did not need to be so fast. But to make packet switching work, lots of very complicated problems of tuning would have to be solved. Frank Heart's skills seemed to make him the best man for the job. He was also known as someone who always finished what he started.
+
+But Larry Roberts could not simply hire him. Contracts like the ARPAnet were supposed to be offered to many competitors so the government got the best deal. Roberts had to ask for bids from the best companies in the computer and communications industries. In August 1968, he wrote a plan and sent it to 140 technology companies.
+
+'It can't be done,' replied most of them. The biggest names in the computer business at the time were sure that the network could not be built. Both IBM (International Business Machines) and Control Data Corporation said the job was impossible. They said no one could build the network for an acceptable price because the IMPs would have to be enormously expensive mainframe computers.
+
+The telephone companies were even more negative. AT and T controlled long-distance phone calls in the USA. 'You'll never make packet switching work,' it said.
+
+The telephone companies had never been helpful to computer scientists:
+
+'Please give us good data communications,' the scientists asked.
+
+'We have phone lines everywhere. Use the telephone network,' said the telephone companies.
+
+'But you don't understand,' said the scientists. 'It takes twenty - five seconds to arrange a call, you charge us for at least three minutes, and we only want to send less than a second of data.'
+
+'Co away,' the telephone companies replied. 'We earn tiny sums from data compared to the money that we make from voice traffic.'
+
+So the computer scientists went away - and they created the Internet.
+
+One of the companies that bid to build the ARPAnet was Bolt, Beranek and Newman (BBN) of Cambridge, Massachusetts. BBN was the place where Frank Heart worked, and half the staff had already worked with Larry Roberts at Lincoln Laboratory.
+
+Frank Heart gave ARPA's plan to his best programmer, Severo Ornstein. Heart said, 'Why don't you take this home and have a look at it and see what you think?'
+
+Ornstein came back the next day and said, 'Well, sure, we could build that if you wanted to. But I can't see why anyone would want it.'
+
+Ornstein did see a problem, though:
+
+'BBN's a small company, so we'll have to put in a very, very good bid to win the contract.'
+
+'Of course,' said Frank Heart. 'But what's the problem? We are very, very good, aren't we?'
+
+'Yes,' Ornstein agreed. 'But isn't it a big problem that so many of us know Larry Roberts? He won't want to be seen passing out contracts to his old friends.'
+
+Frank Heart did not agree.
+
+
+
+'If the bid is good enough, we'll win,' he said.
+
+
+
+Frank Heart believed that a small company had an advantage in this situation. Unlike IBM or AT and T, BBN could move very quickly. For four weeks Heart and his team worked day and night. Later, some members of the team honestly believed that the work had taken six months, not one.
+
+By the time they had finished, their plan was enormously detailed. They had worked out most of the design for the IMPs, using an existing computer from the Honeywell company. They described how the network could be made to work even under heavy loads. And they also discovered that they could make the system run ten times more quickly than ARPA was asking.
+
+In the end BBN had only one serious competitor for the ARPAnet contract: the much bigger Raytheon Corporation. But the difference in size persuaded Larry Roberts to choose BBN. 'Why BBN and not Raytheon?' Bob Taylor asked him.
+
+'BBN's bid is very good. It's as good as Raytheon's.'
+
+'I agree,' said Bob Taylor. 'But why pick BBN and not Raytheon? Raytheon is bigger.'
+
+'But that's just the problem,' Roberts replied. 'There are too many layers of managers at Raytheon. If something goes wrong, who do I call? At BBN everyone reports to Frank Heart. If there's a problem, I can just phone Frank and tell him to fix it.'
+
+'BBN is a small company.'
+
+'Don't worry. That will make them fast.'
+
+Larry Roberts gave the contract to BBN. But the company would need to be fast. It only had nine months to complete the job.
+
+Frank Heart's team started work at the beginning of 1969, and the job had to be finished by 1 September. No one today knows why BBN was given so little time to build the ARPAnet.
+
+'There probably isn't a reason,' Frank Heart said to his team. 'The government sometimes picks dates without thinking. This one is probably an artificial date picked by the government and picked by Larry Roberts. I don't know why they chose it. I can't see any reason why it has to be that particular day. But that's what it is. That is in the contract and so that's what we've got to do.'
+
+They had several big jobs to do. The team had to make packet switching work in the real world. They had to turn an ordinary computer into an IMP. They had to write software to control the IMPs. And they had to work with the four host sites to make sure that the IMPs could communicate with their mainframes.
+
+The biggest problem was the hardware.
+
+'I'm worried that we won't get the hardware built in time,' said Frank Heart.
+
+'We've done this kind of thing before,' said Severo Ornstein.
+
+'Yes, but there's so much more to do this time,' said Heart. 'We have to design a computer. We have to get Honeywell to understand the design and build it. Then we need to test it.'
+
+The IMPs were the heart of the network. Each IMP would stand between a host computer and the telephone system. It would have to translate messages from the host computer into packets for the network. When it received packets, it would have to know whether to build them into a message for its host or pass them on to another IMP. At any moment, all of the IMPs would have to know how the whole network was performing so they could send packets by the most efficient route.
+
+Because the IMPs were so important, Frank Heart wanted to make sure that they would never break down. He also wanted them to be impossible to destroy. He imagined students at the host sites opening the IMPs and taking them apart. He tried very hard to make sure that this could not happen.
+
+Frank Heart's worries about students were one of the main reasons that he decided to base the IMPs on Honeywell's DDP - 516 computer. Honeywell sold this computer to the army. Frank Heart knew that the company had an interesting way of proving that the machine was strong enough to work in a war.
+
+So, how do you prove that a computer will not break? To answer this question, Honeywell invited its customers into a large hall. There a DDP-516 was hanging from the ceiling.
+
+'That's interesting,' the customer might say, 'but what does that tell us?'
+
+'Look more closely,' the Honeywell people said. When the customer approached, he saw that the computer was actually working while it was swinging on a rope above the ground.
+
+'That's very good.'
+
+'Oh, no,' said the Honeywell people. 'Not really. But the next thing you'll see is certainly very, very good.'
+
+At that moment a tall, strong man walked into the room carrying a large hammer. He swung the hammer, and with a great crash he hit the computer again... and again... and again.
+
+When the computer had stopped swinging, the Honeywell people invited the customer to inspect it again.
+
+
+
+'Check and see if it's working now,' they said. It always was. This was almost enough to calm Frank Heart's fears about students.
+
+
+
+The software for IMPs needed to be at least as good as the hardware. The software had to deliver whole messages to the correct destinations. For this, software had to be written that worked even if the hardware didn't - even if an evil student had managed to break one of Frank Heart's IMPs.
+
+This is still the way the Internet works today: the software understands how to avoid broken hardware. If a packet does not reach its destination, the software knows. Then it sends that packet again, by a different route if necessary.
+
+In the spring of 1969, both the software and the hardware were working in BBN's own building.
+
+'Now we know the network will work,' said Severo Ornstein. 'Don't forget the messages are only travelling a few meters,' Frank Heart warned. 'That isn't a network. We still have to build a system that works over thousands of kilometers.'
+
+'That's true,' Ornstein agreed. 'But we know that the principle is exactly the same if the wire is a meter long or a hundred kilometers long. The phone company says that the length of the wire doesn't matter. It's going to work!'
+
+
+
+'I hope you're right,' said Heart.
+
+
+
+At the four host sites, the teams had even less time to build then-parts of the network. And some of the team members had no experience of this kind of work. Vint Cerf was one of them. Every day he thought, 'When are the professional managers going to arrive? We're just graduate students.'
+
+But there never were any professional managers. So Cerf and his friends just continued to do the work.
+
+At each host site, the computer was a mainframe - a machine that was designed to behave like the only computer in the universe. In each case, this computer had to be connected to another computer - an IMP - for the first time. But each mainframe was different and needed a different set of connections.
+
+'The question is, exactly how do they connect?' said Frank Heart. 'How do they connect electrically? How do they connect logically? How docs the software connect? These are very difficult questions. And they have to be solved very, very, very quickly. Because we at BBN have to build special hardware into the Honeywell machine at our end of the connection, and all the host sites have to build special hardware for their mainframe computers and write special software to match our connection.' ARPA was very clear about the network it wanted: one host computer connected to one IMP. But the host sites all had more than one big computer. Soon they were calling Frank Heart.
+
+'Wait, wait!' they said. 'We've got more than one computer! We want to connect two or three computers to your IMP please!'
+
+Heart was surprised. 'Why are you suddenly so keen on the network?' he asked. 'Only a few months ago, you were all saying "Leave us alone."'
+
+'Well, yes, that's true,' said the people at the host sites. 'But now we can see how useful the network will be.'
+
+'To share data with other sites?'
+
+'Not really...'
+
+'What, then?' Frank Heart wanted to know.
+
+'Well, even here, just at this university, the computers can't talk to each other,' said the host sites. 'They're all made by different companies and they all use different software. But your IMP is designed to connect different machines together. If you let us connect all our computers to the IMP, then we'll be able to share data here much more easily.'
+
+'So, you want me to build you a local network?'
+
+
+
+'Yes, please.'
+
+
+
+On 16 July 1969, Neil Armstrong became the first man to walk on the moon. But at BBN there was not much time to watch the historic television broadcast. It was just six weeks before the first IMP was due to be delivered to the University of California at Los Angeles (UCLA). BBN heard that UCLA was not ready. UCLA believed that BBN was going to be late. Both teams were working twenty-four hours a day.
