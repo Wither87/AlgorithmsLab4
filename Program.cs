@@ -9,7 +9,6 @@ namespace AlgorithmsLab4
     {
         private static Stopwatch sw = new Stopwatch();
         private static Dictionary<string, int> uniqueWords = new Dictionary<string, int>();
-        private static string[] text;
         private static string textsLocationPath = @"..\..\Texts";
         static void Main(string[] args)
         {
@@ -21,19 +20,20 @@ namespace AlgorithmsLab4
                 Console.WriteLine(Path.GetFileName(file));
                 Console.ForegroundColor = ConsoleColor.Gray;
 
-                TestSelectionSort(file);
-                TestHoareSort(file);
-                SortedTextWriteInFile(Path.GetFileName(file));
-                UniqueWordsCounting();
+                string[] text = ReadFile(file);
+                TestSelectionSort(text);
+                text = ReadFile(file);
+                TestHoareSort(text);
+                SortedTextWriteInFile(text, Path.GetFileName(file));
+                UniqueWordsCounting(text);
                 UniqueWordsWriteInFile(Path.GetFileName(file));
                 uniqueWords.Clear();
                 Console.WriteLine("\n");
             }
         }
 
-        private static void TestSelectionSort(string filePath)
+        private static void TestSelectionSort(string[] text)
         {
-            text = ReadFile(filePath);
             LowercaseConversion(text);
             sw.Start();
             Sort.SelectionSort(text);
@@ -42,9 +42,8 @@ namespace AlgorithmsLab4
             PrintWorkingTime(sw.ElapsedTicks);
             sw.Reset();
         }
-        private static void TestHoareSort(string filePath)
+        private static void TestHoareSort(string[] text)
         {
-            text = ReadFile(filePath);
             LowercaseConversion(text);
             sw.Start();
             Sort.HoareSort(text, 0, text.Length - 1);
@@ -68,7 +67,7 @@ namespace AlgorithmsLab4
             return text;
         }
         
-        private static void UniqueWordsCounting()
+        private static void UniqueWordsCounting(string[] text)
         {
             foreach (var word in text)
             {
@@ -98,7 +97,7 @@ namespace AlgorithmsLab4
             }
         }
 
-        private static void SortedTextWriteInFile(string textFileName)
+        private static void SortedTextWriteInFile(string[] text, string textFileName)
         {
             string directoryPath = $@"{textsLocationPath}\SortedTexts";
             string filePath = $@"{directoryPath}\Sorted text from {textFileName}";
